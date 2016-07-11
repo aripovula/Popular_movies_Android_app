@@ -21,7 +21,3 @@ http://www.androidhive.info/2013/09/android-sqlite-database-with-multiple-tables
 
 to store info in SQL database to improve knowledge of working with databases.
 
-
-6. Share content:  
-
-7. Implicit intents: 
