@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GridViewActivity">
+
+    <item
+        android:id="@+id/action_bypop"
+        android:orderInCategory="200"
+        android:title="@string/action_bypop"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_byrat"
+        android:orderInCategory="300"
+        android:title="@string/action_byrat"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_byplaying"
+        android:orderInCategory="400"
+        android:title="@string/action_byplaying"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_byupcoming"
+        android:orderInCategory="500"
+        android:title="@string/action_byupcoming"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_showoffline"
+        android:orderInCategory="600"
+        android:title="@string/action_showoffl"
+        app:showAsAction="never" />
+
+
+</menu>
